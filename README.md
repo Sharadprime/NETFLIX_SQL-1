@@ -2,4 +2,4 @@
 
 ![NETFLIX_LOGO](https://github.com/Sharadprime/NETFLIX_SQL-1/blob/main/pngwing.com.png)
 
-##OBJECTIVE
+# OBJECTIVE
