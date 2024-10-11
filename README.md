@@ -1,1 +1,1 @@
-# NETFLIX_SQL-1
+# NETFLIX_SQL-1 Data analysis project using PostgresSQL
